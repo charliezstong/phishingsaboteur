@@ -45,8 +45,7 @@ const run = async (data) => {
 
 var payload = {
   requestNumber:2000,
-  phishingPage:"http://harlequincscart.demolocations.com",
-  // phishingPage:"https://xx0x0x.requestcatcher.com",
+  phishingPage:"{{ENDPOINT}}",
 }
 
 run(payload)
