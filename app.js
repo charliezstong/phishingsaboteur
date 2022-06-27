@@ -44,7 +44,7 @@ const run = async (data) => {
 } 
 
 var payload = {
-  requestNumber:2000,
+  requestNumber:5000,
   phishingPage:"{{ENDPOINT}}",
 }
 
