@@ -1,7 +1,8 @@
 
-# Phi~~shing~~reverse
+# Phishing Saboteur 
+### * Personal hobby ~~not a tool~~
 
-Phishing Reverse ataca con spam y datos falsos (ligeramente reales) el phishing que le hacen a Bancolombia (2022), enviando miles de datos en minutos para dificultar a los atacantes discernir entre los datos reales de los falsos. 
+Enviar spam y datos falsos (ligeramente reales) al phishing que le hacen a Bancolombia (solo un tipo), enviando miles de datos en minutos para dificultar a los atacantes discernir entre los datos reales de los falsos o simplemente fastidiarlos. 
 
 ```bash
   npm install
@@ -88,6 +89,3 @@ Los atacantes pueden (y seguramente) perfeccionarse para filtrar este tipo de he
 
 
 @charliezstong
-
-## 🔗
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/charliezstong)
